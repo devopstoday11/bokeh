@@ -1,5 +1,6 @@
 import "./array"
 import "./arrayable"
+import "./cloneable"
 import "./bbox"
 import "./color"
 import "./eq"
